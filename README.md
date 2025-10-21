@@ -81,7 +81,7 @@ I built Lexicon to address the common challenge of effective vocabulary acquisit
 Clone the repo and run locally:
 
 ```bash
-git clone https://github.com/the-ajay-panigrahi/lexicon
+git clone https://github.com/HarshJha2004/lexicon
 cd lexicon
 npm install
 npm run dev
